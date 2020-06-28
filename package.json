@@ -1,0 +1,16 @@
+{
+	"name": "eslint-config-ets",
+	"version": "1.0.0",
+	"description": "The Eslint Config for Electron React Typescript Projects",
+	"main": "index.js",
+	"author": {
+		"name": "Sourodeep Chatterjee",
+		"email": "sourodeep224@outlook.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/electron-react-boilerplate/eslint-config-erb"
+	},
+	"license": "MIT",
+	"private": false
+}
